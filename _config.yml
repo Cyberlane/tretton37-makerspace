@@ -1,0 +1,39 @@
+name:         'tretton37 Makerspace'
+safe:         true
+auto:         true
+server:       false
+server_port:  4000
+url:          'http://cyberlane.github.io/tretton37-makerspace/'
+domain:       'http://cyberlane.github.io/'
+author:       'Justin Nel'
+description:  'Information, help and everything needed in one central place for the tretton37 Makerspace'
+
+source:              .
+destination:         ./_site
+plugins:             ./_plugins
+
+future:              true
+lsi:                 false
+pygments:            false
+markdown:            rdiscount
+include:             ['_pages']
+relative_permalinks: false
+excerpt_separator:   '{{ more }}'
+
+rdiscount:
+  extensions: [smart]
+
+kramdown:
+  auto_ids:         true,
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  use_coderay:      false
+
+  coderay:
+    coderay_wrap:               div
+    coderay_line_numbers:       inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width:          4
+    coderay_bold_every:         10
+    coderay_css:                style
