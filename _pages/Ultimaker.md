@@ -28,7 +28,7 @@ We need to buy some acetate or some other type of spirit to clean glass as you h
 
 Keep some paper towel nearby to clean the nozzle after you first feed in filament and again after you are finished printing (if there is any left on there), however avoid touching it with your bare heads (as it is bloody hot) and do not wait for it to cool down as it will stick like cement.
 
-**DO NOT** put any metallic or sharp objects need the glass, it is glass, it can scratch and if you damage the glass, the printer quality will suffer! I recommend we buy a sturdy plastic tool (similar to one of those things you use to change an iPhone screen) to pry off completed print jobs, which will not scratch the glass and will help you get your stuff off of the printer.
+**DO NOT** put any metallic or sharp objects near the glass, it is glass, it can scratch and if you damage the glass, the printer quality will suffer! I recommend we buy a sturdy plastic tool (similar to one of those things you use to change an iPhone screen) to pry off completed print jobs, which will not scratch the glass and will help you get your stuff off of the printer.
 
 ### Leveling the bed
 
@@ -52,7 +52,7 @@ Ninja Flex Green (PLA)
 
 ABS has a melting point of around 165 degrees, whilst PLA is only 115 degrees.
 
-ABS can also melt with acetate (nail polish remover), so if you want to polish your models to have a nice glossy finish you could use a little on a cloth and do just that, but be careful as too much and it will in fact dissolve your work!
+ABS can also melt with acetate (nail polish remover), so if you want to polish your models to have a nice glossy finish you could use a little on a cloth and do just that, but be careful as too much will in fact dissolve your work!
 
 ### Open a window!
 
@@ -64,7 +64,7 @@ When printing, it is recommended that you watch it print the first few layers be
 
 ### What's that weird noise?
 
-If you hear a weird grinding noise, that means it is struggling with feeding in the filament - this is normal when you are first feeding in some new filament and you generally solve it by forcing the filament up by hand until it begins to melt out of the nozel, do not worry you will not break the printer doing this. This should not happen when you are printing, however if it does you use the middle sized allen key on the bolt on the top of the extruder (the black thing you put the filament into), to tighten and loosen the grip accordingly which should solve this issue. I have calibrated this already, so it should not need to be touched unless over time it becomes loose, OR you begin to use a different sized filament from what we have right now (2.85mm I believe).
+If you hear a weird grinding noise, that means it is struggling with feeding in the filament - this is normal when you are first feeding in some new filament and you generally solve it by forcing the filament up by hand until it begins to melt out of the nozzle, do not worry you will not break the printer doing this. This should not happen when you are printing, however if it does you use the middle sized allen key on the bolt on the top of the extruder (the black thing you put the filament into), to tighten and loosen the grip accordingly which should solve this issue. I have calibrated this already, so it should not need to be touched unless over time it becomes loose, OR you begin to use a different sized filament from what we have right now (2.85mm I believe).
 
 ### Rule Zero
 
